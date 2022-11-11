@@ -1,3 +1,5 @@
+<img src="https://i2.wp.com/www.comicsbeat.com/wp-content/uploads/2021/01/spidey-dance.gif?resize=478%2C205&ssl=1">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/burakeldn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="burakeldn" height="30" width="40" /></a>
